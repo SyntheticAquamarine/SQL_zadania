@@ -1,0 +1,1 @@
+select [dbo].[RoznicaDat]('2011-10-08','2015-01-05') as roznica
